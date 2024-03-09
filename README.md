@@ -1,17 +1,22 @@
 Hi 👋 Welcome to twinstarhub's Profile!
 ============================
+```
 > Full Stack Engineer
+```
+```
 > AI Engineer
+```
+```
 > Tech Advisor
+```
 ----------------------------------------------------
 
 <b>My clients’ happiness is the real provement of my efforts, and it is a motivation to boost myself</b>
-```
+
 Sr Fullstack & AI developer, boasting a professional journey with more than 7 years.
 In personal life, I am maintaining a calm and kind manner.
 However, in professional business, I have been known for the confidence and adaptability.
 And I actively contribute the technical skills to various projects, striving to offer innovative solutions and demonstrate my proficiency.
-```
 <br> <br>
 ### twinstarhub Stats
 
