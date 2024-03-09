@@ -1,14 +1,11 @@
 Hi 👋 Welcome to twinstarhub's Profile!
 ============================
-```
 > Full Stack Engineer
-```
-```
+
 > AI Engineer
-```
-```
+
 > Tech Advisor
-```
+
 ----------------------------------------------------
 
 <b>My clients’ happiness is the real provement of my efforts, and it is a motivation to boost myself</b>
