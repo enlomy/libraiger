@@ -1,9 +1,7 @@
 Hi 👋 Welcome to twinstarhub's Profile!
 ============================
-> Full Stack Engineer
-
 > AI Engineer
-
+> Full Stack Engineer
 > Tech Advisor
 
 ----------------------------------------------------
