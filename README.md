@@ -1,6 +1,6 @@
 Hi 👋 Welcome to libraiger's Profile!
 ============================
-## AI & Blockchain Engineer
+## AI & MLOps Engineer
 ----------------------------------------------------
 
 ### Clients’ satisfactory is the real proof of the good delievery
