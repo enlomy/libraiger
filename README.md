@@ -33,7 +33,7 @@ And I actively contribute the technical skills to various projects, striving to 
 - [AI for Game Development](https://huggingface.co/blog/ml-for-games-1?ref=dailydev)
 - [An NFT without a Blockchain. No gas fees. No Eth. No gatekeepers](https://shkspr.mobi/blog/2021/12/an-nft-without-a-blockchain-no-gas-fees-no-eth/?ref=dailydev)
 
-![GitHub stats][github-stats]
+<!-- ![GitHub stats][github-stats] -->
 ![Lang stats][lang-stats-api]
 ![trophy][trophy-api]
 
